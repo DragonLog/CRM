@@ -1,18 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : mysql
-Source Server Version : 80025
-Source Host           : 192.168.137.132:3306
-Source Database       : crm
-
-Target Server Type    : MYSQL
-Target Server Version : 80025
-File Encoding         : 65001
-
-Date: 2021-08-17 15:14:03
-*/
-
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
