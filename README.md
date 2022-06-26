@@ -18,8 +18,8 @@
 
 > **[哔哩哔哩在线课程](https://www.bilibili.com/video/BV1fT4y1E7a6?from=search&seid=17945718129096207238)**
 ***
-![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show1.jpg)
-![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show2.jpg)
-![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show3.jpg)
-![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show4.jpg)
-![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show5.jpg)
+![示例图片](https://github.com/DragonLog/CRM/blob/main/pictureForExample/show1.jpg)
+![示例图片](https://github.com/DragonLog/CRM/blob/main/pictureForExample/show2.jpg)
+![示例图片](https://github.com/DragonLog/CRM/blob/main/pictureForExample/show3.jpg)
+![示例图片](https://github.com/DragonLog/CRM/blob/main/pictureForExample/show4.jpg)
+![示例图片](https://github.com/DragonLog/CRM/blob/main/pictureForExample/show5.jpg)
