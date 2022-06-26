@@ -17,5 +17,9 @@
 > **[动力节点线下资料](http://www.bjpowernode.com/javavideo/124.html)**
 
 > **[哔哩哔哩在线课程](https://www.bilibili.com/video/BV1fT4y1E7a6?from=search&seid=17945718129096207238)**
-
-> **[项目示例（用户名：zs，密码123。后台数据每60min重新刷新一次）](http://47.98.130.70:8081)**
+***
+![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show1.jpg)
+![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show2.jpg)
+![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show3.jpg)
+![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show4.jpg)
+![示例图片](https://github.com/DragonLog/CRM/pictureForExample/show5.jpg)
